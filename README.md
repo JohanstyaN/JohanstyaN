@@ -1,63 +1,47 @@
 # 👋 ¡Hola! Soy Johan Sebastián Cañón
 
-🎓 Ingeniero de Sistemas | 🧠 Apasionado por Backend, Cloud & Serverless | ☁️ AWS Practitioner
+[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/) [![AWS](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange.svg)](https://aws.amazon.com/certification/) [![Terraform](https://img.shields.io/badge/Terraform-0.14-green.svg)](https://www.terraform.io/) [![Docker](https://img.shields.io/badge/Docker-20.10-blue.svg)](https://www.docker.com/)
+
+## 📝 Sobre mí
+
+Soy un desarrollador backend con enfoque en soluciones **escalables**, **seguras** y **automatizadas**, usando principalmente **Python**, arquitecturas **serverless** y tecnologías **cloud** como AWS. Me apasiona optimizar procesos, aprender continuamente y crear valor a través de código limpio y mantenible.
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 Stack Técnico
 
-Soy un desarrollador backend con enfoque en soluciones **escalables, seguras y automatizadas**, usando principalmente **Python**, arquitecturas **serverless** y **tecnologías cloud** como AWS. Me encanta optimizar procesos, aprender constantemente y crear valor a través del código limpio.
-
----
-
-## 🛠️ Tecnologías que manejo
-
-- 🐍 Python | FastAPI | Flask | Django
-- ☁️ AWS Lambda | API Gateway | S3 | DynamoDB
-- 📦 Docker | Microservicios | SQS | SNS | Step Functions
-- 🏗️ Terraform | AWS CDK | CI/CD | GitHub Actions
-- 🔐 Seguridad en la nube, buenas prácticas de desarrollo
+- **Lenguajes:** Python · JavaScript · PHP · SQL  
+- **Frameworks & Librerías:** FastAPI · Flask · Django · Express.js · Bootstrap · AdminLTE  
+- **Cloud & Serverless:** AWS Lambda · API Gateway · S3 · DynamoDB · SNS · SQS · Step Functions  
+- **Infraestructura & IaC:** Terraform · AWS CDK · CloudFormation · Docker · ECS · EKS  
+- **Bases de datos:** PostgreSQL · MySQL · MongoDB · DynamoDB  
+- **CI/CD & Testing:** GitHub Actions · Travis CI · Pytest · Postman  
 
 ---
 
-## 🌟 Fortalezas destacadas
+## 🌟 Proyectos Destacados
 
-- 🔄 Automatización de flujos CI/CD y despliegue continuo con IaC.
-- 📈 Diseño de arquitecturas **serverless** con alta disponibilidad.
-- 🧩 Desarrollo modular y mantenible siguiendo principios SOLID.
-- 🧠 Capacidad de aprendizaje continuo y resolución de problemas reales.
+| Proyecto                                       | Descripción                                                                                                                                       | Tecnologías clave                                      |
+|-----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| [fondos-cliente-api](https://github.com/JohanstyaN/fondos-cliente-api)      | API REST con **FastAPI** para gestionar suscripciones y cancelaciones de fondos. Eventos desacoplados en SQS→SNS, desplegada en AWS Lambda con IaC en CDK. Incluye tests con Pytest. | FastAPI · AWS Lambda · SQS · SNS · CDK · Pytest        |
+| [api-cats-and-users](https://github.com/JohanstyaN/api-cats-and-users)     | Microservicio en **FastAPI** que consume TheCatAPI y gestiona usuarios en MongoDB. Docker Compose, tests automatizados y colección Postman.      | FastAPI · MongoDB · Docker Compose · Pytest · Postman  |
+| [Banco_Sammy](https://github.com/JohanstyaN/Banco_Sammy)                    | Portal web bancario con **HTML**, **CSS**, **JavaScript** y **Bootstrap**. CRUD de cuentas de ahorro y corrientes con diseño responsivo.         | HTML · CSS · JS · Bootstrap                            |
+| [CRUD-Parqueadero](https://github.com/JohanstyaN/CRUD-Parqueadero)         | Sistema CRUD para gestión de parqueadero: backend en **PHP** con MySQL, frontend con AdminLTE y despliegue continuo con Travis CI.                | PHP · MySQL · JavaScript · AdminLTE · Travis CI        |
 
----
-
-## 📂 ¿Qué puedes encontrar aquí?
-
-| Proyecto | Descripción |
-|---------|-------------|
-| `fondos-cliente-api` | API REST construida con FastAPI y desplegada en AWS Lambda, Procesamiento de eventos en SQS + SNS usando arquitectura desacoplada, Infraestructura como código con AWS CDK y despliegue automatizado, Pruebas unitarias y de integración con PyTest, mocks y cobertura |
-| `BlockChain` | Proyecto realizado con Python enfocado en la utilizacion de BlockChain en Python utilizando contenerizacion en Docker |
 ---
 
 ## 🤝 Conectemos
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/johan-sebastian-cañon-932b0b240/)
-- 📧 sebastyancanon@gmail.com
-- 🌐 Sitio web (próximamente...)
+- 💼 **LinkedIn:** [linkedin.com/in/johan-sebastian-cañon-932b0b240](https://www.linkedin.com/in/johan-sebastian-cañon-932b0b240/)  
+- 📧 **Email:** sebastyancanon@gmail.com  
+- 🌐 **GitHub:** [@JohanstyaN](https://github.com/JohanstyaN)  
 
 ---
 
 ### 🌱 Actualmente aprendiendo
 
-- 🧠 **Algoritmia y estructuras de datos** para mejorar la eficiencia en soluciones backend.
-- ☁️ **Certificación AWS Developer Associate** en curso, con ruta clara hacia **Solutions Architect Associate**.
-- 🗣️ **Inglés técnico y conversacional** para colaboración internacional y participación en comunidades globales.
-- 🔍 **Profundización en arquitectura event-driven y patrones avanzados de diseño en AWS**, como:
-  - Serverless Saga Pattern con Step Functions
-  - Integraciones desacopladas con EventBridge y SQS/SNS
-  - Seguridad y control de acceso con IAM Policies + Cognito
+- Estructuras de datos y algoritmos avanzados para optimizar mis soluciones backend  
+- Certificación **AWS Developer Associate** (en curso) y camino a **Solutions Architect Associate**  
+- Patrones **event-driven** en AWS (Step Functions, EventBridge) y mejores prácticas de seguridad con IAM & Cognito  
 
----
-
-**"Automatiza lo repetible, escala lo valioso."**
-
-Gracias por pasarte por aquí 🙌 ¡Explora mis proyectos y colaboremos si hay oportunidad!
-
+> **“Automatiza lo repetible, escala lo verdaderamente valioso.”**
