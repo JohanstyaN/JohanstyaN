@@ -1,11 +1,18 @@
-# 👋 ¡Hola! Soy Johan Sebastián Cañón
+<h1 align="center">👋 ¡Hola! Soy Johan Sebastián Cañón</h1>
 
-[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)  [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://developer.mozilla.org/docs/Web/JavaScript)  [![Java](https://img.shields.io/badge/Java-17-red.svg)](https://www.oracle.com/java/)  
-[![Node.js](https://img.shields.io/badge/Node.js-16-green.svg)](https://nodejs.org/)  [![Django](https://img.shields.io/badge/Django-4.1-green.svg)](https://www.djangoproject.com/)  [![AWS](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange.svg)](https://aws.amazon.com/certification/)  
-[![Terraform](https://img.shields.io/badge/Terraform-0.14-green.svg)](https://www.terraform.io/)  [![Docker](https://img.shields.io/badge/Docker-20.10-blue.svg)](https://www.docker.com/)  [![FastAPI](https://img.shields.io/badge/FastAPI-0.85-lightblue.svg)](https://fastapi.tiangolo.com/)  
-[![Flask](https://img.shields.io/badge/Flask-2.2-black.svg)](https://flask.palletsprojects.com/)  [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-enabled-blue.svg)](https://github.com/features/actions) 
-[![pytest](https://img.shields.io/badge/pytest-7.2-blue.svg)](https://docs.pytest.org/)  [![Postman](https://img.shields.io/badge/Postman-API-blue.svg)](https://www.postman.com/)  [![AWS CDK](https://img.shields.io/badge/AWS_CDK-2.0-orange.svg)](https://aws.amazon.com/cdk/)  
-[![Step Functions](https://img.shields.io/badge/Step_Functions-blue.svg)](https://aws.amazon.com/step-functions/)  [![DynamoDB](https://img.shields.io/badge/DynamoDB-2023-yellow.svg)](https://aws.amazon.com/dynamodb/)  
+<p align="center">
+  <strong>Desarrollador Backend enfocado en Python 🐍, arquitecturas serverless y automatización en la nube ☁️</strong>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" height="60" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/ikifar2012/aws-logo/main/aws.png" width="60" height="60" alt="AWS"/>
+</p>
+
+---
 
 ## 📝 Sobre mí
 
@@ -13,7 +20,35 @@ Soy un desarrollador backend con enfoque en soluciones **escalables**, **seguras
 
 ---
 
-## 🚀 Stack Técnico
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JohanstyaN&show_icons=true&theme=tokyonight&count_private=true&custom_title=Estadísticas%20de%20GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanstyaN&layout=compact&theme=tokyonight&langs_count=6" height="150"/>
+</p>
+
+---
+
+## 🚀 Stack Técnico (Visual)
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/ikifar2012/aws-logo/main/aws.png" width="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" alt="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+</p>
+
+---
+
+## 🚀 Stack Técnico (detallado)
 
 - **Lenguajes:** Python · JavaScript · Java · Node.js · SQL  
 - **Frameworks & Librerías:** FastAPI · Flask · Django · Express.js · Bootstrap · AdminLTE  
